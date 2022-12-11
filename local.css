@@ -1,0 +1,19 @@
+.flag-outer {
+    background-color: white;
+    display: flex;
+    width: 80%;
+    padding-top: 40%;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;   
+    position: relative; 
+    margin: 2em;
+}
+.flag-inner {
+    background-color: red;
+    height: 50%;
+    width: 25%;
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+}
